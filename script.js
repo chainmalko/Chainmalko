@@ -10,6 +10,3 @@ function saveData() {
         return a;
     }
 };
-
-////// hellorer
-rerwei
